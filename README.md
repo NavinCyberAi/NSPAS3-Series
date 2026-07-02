@@ -54,4 +54,4 @@ python3 step6_evaluation.py
 
 ## 🎯 Purpose
 
-This Python project was created to practice data cleaning, data preprocessing, exploratory data analysis (EDA), synthetic data generation, data visualization, feature extraction, model creation, model evaluation, and basic data processing using Python.
+This Python project was created to practice data cleaning, data preprocessing, exploratory data analysis (EDA), synthetic data generation, data visualization, feature extraction, model creation, model evaluation, and the data processing using Python.
