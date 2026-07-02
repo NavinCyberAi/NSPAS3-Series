@@ -1,6 +1,6 @@
 # 📊 NSPAS3 Data Cleaning and Analysis
 
-A Python project for cleaning, preprocessing, and analyzing the NSPAS3 dataset. The project also generates a synthetic dataset and creates histogram and scatter plot visualizations to better understand the data.
+A Python project for cleaning, preprocessing, and analyzing the NSPAS3 dataset. The project also generates a synthetic dataset and then creates histogram and scatter plot visualizations to better understand the data.
 
 ## ✨ Features
 
